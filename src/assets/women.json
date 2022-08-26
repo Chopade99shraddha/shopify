@@ -1,0 +1,176 @@
+[
+    
+    {
+        "id":"nineteen",
+        "category":"Kurti",
+        "name":" MAA FAB Women Bandhani Viscose Rayon Straight Kurta",
+        "price":790,
+        "description":"",
+        "rating":4.7,
+        "image":"/assets/kurti/k1.webp"
+    },
+    {
+        "id":"twenty",
+        "category":"Kurti",
+        "name":" OXIT CLASS  Women Printed Pure Cotton A-Line Kurta  (White Pink)",
+        "price":990,
+        "description":"",
+        "rating":4.9,
+        "image":"/assets/kurti/k4.webp"
+    },
+    {
+        "id":"thirtyfive",
+        "category":"Saree",
+        "name":"Forest Green Chikankari Blouse with Sage Green Organza Saree",
+        "price":1790,
+        "description":"Saree : Original Moss (Fabric) Work : Digital Print With Fancy Lace Border  Length : 5 . 50 MBlouse : Heavy Satin Length : 0 . 80 M Type : Unstitched",
+                "rating":2.9,
+        "image":"/assets/saree/s5.webp"
+    },
+    {
+        "id":"thirtysix",
+        "category":"Saree",
+        "name":" Bandhej saree ",
+        "price":890,
+        "description":"Saree : Original Moss (Fabric) Work : Digital Print With Fancy Lace Border  Length : 5 . 50 MBlouse : Heavy Satin Length : 0 . 80 M Type : Unstitched",
+                "rating":2.5,
+        "image":"/assets/saree/s6.webp"
+    }, 
+    {
+        "id":"twentyone",
+        "category":"Kurti",
+        "name":" OXIT CLASS  Women Printed Pure Cotton A-line Kurta  (Maroon)",
+        "price":890,
+        "description":"",
+        "rating":4.1,
+        "image":"/assets/kurti/k5.webp"
+    },
+
+    {
+        "id":"twentytwo",
+        "category":"Kurti",
+        "name":" Libas Women Printed Pure Cotton A-Line Kurta  (Blue)",
+        "price":780,
+        "description":"",
+        "rating":4.6,
+        "image":"/assets/kurti/k6.webp"
+    },
+    {
+        "id":"twentythree",
+        "category":"Kurti",
+        "name":" OXIT CLASS  Women Printed Pure Cotton Anarkali Kurta Set (Maroon)",
+        "price":570,
+        "description":"",
+        "rating":3.6,
+        "image":"/assets/kurti/k7.jpg"
+    },
+    {
+        "id":"twentyfour",
+        "category":"Kurti",
+        "name":"Libas  Women Printed Pure Cotton Anarkali Kurta Set(Red)",
+        "price":790,
+        "description":"",
+        "rating":3.9,
+        "image":"/assets/kurti/k8.webp"
+    },
+    {
+        "id":"twentyfive",
+        "category":"Kurti",
+        "name":" OXIT CLASS  Women Printed Pure Cotton Anarkali Kurta  (Blue)",
+        "price":1090,
+        "description":"",
+        "rating":4.8,
+        "image":"/assets/kurti/k9.webp"
+    },
+    {
+        "id":"twentysix",
+        "category":"Kurti",
+        "name":" Libas Women Printed Pure Cotton Anarkali Kurta  (Yellow)",
+        "price":690,
+        "description":"",
+        "rating":4.1,
+        "image":"/assets/kurti/k3.jpg"
+    },
+    {
+        "id":"twentyseven",
+        "category":"Kurti",
+        "name":" Libas Women Printed Pure Cotton Aline Kurta  (Blue)",
+        "price":690,
+        "description":"",
+        "rating":4.1,
+        "image":"/assets/kurti/k2.webp"
+    },
+    {
+        "id":"twentyeight",
+        "category":"Saree",
+        "name":"  Sabyasachi Multi Color Designer Party Wear Saree",
+        "price":1590,
+        "description":"Saree : Original Moss (Fabric) Work : Digital Print With Fancy Lace Border  Length : 5 . 50 MBlouse : Heavy Satin Length : 0 . 80 M Type : Unstitched",
+                "rating":4.9,
+        "image":"/assets/saree/s9.webp"
+    },
+    {
+        "id":"thirty",
+        "category":"Saree",
+        "name":" Modern Pink Saree With Fancy Blouse",
+        "price":1290,
+        "description":"Saree : Original Moss (Fabric) Work : Digital Print With Fancy Lace Border  Length : 5 . 50 MBlouse : Heavy Satin Length : 0 . 80 M Type : Unstitched",
+                "rating":3.9,
+        "image":"/assets/saree/s1.jpg"
+    },
+    {
+        "id":"thirtyone",
+        "category":"Saree",
+        "name":"Light Violet Handwoven Banarasi Pure Georgette Saree",
+        "price":990,
+        "description":"Saree : Original Moss (Fabric) Work : Digital Print With Fancy Lace Border  Length : 5 . 50 MBlouse : Heavy Satin Length : 0 . 80 M Type : Unstitched",
+                "rating":4.2,
+        "image":"/assets/saree/s2.webp"
+    },
+    {
+        "id":"thirtytwo",
+        "category":"Saree",
+        "name":"  Sabyasachi Pink Designer Party Wear Saree",
+        "price":1090,
+        "description":"Saree : Original Moss (Fabric) Work : Digital Print With Fancy Lace Border  Length : 5 . 50 MBlouse : Heavy Satin Length : 0 . 80 M Type : Unstitched",
+                "rating":2.9,
+        "image":"/assets/saree/s3.jpg"
+    },
+    {
+        "id":"thirtythree",
+        "category":"Saree",
+        "name":"  Butterfly Olive Green Designer Party Wear Saree",
+        "price":1890,
+        "description":"Saree : Original Moss (Fabric) Work : Digital Print With Fancy Lace Border  Length : 5 . 50 MBlouse : Heavy Satin Length : 0 . 80 M Type : Unstitched",
+                "rating":4.4,
+        "image":"/assets/saree/s3.webp"
+    },
+    {
+        "id":"thirtyfour",
+        "category":"Saree",
+        "name":"  Sabyasachi Green Saree With Sequence Work",
+        "price":2090,
+        "description":"Saree : Original Moss (Fabric) Work : Digital Print With Fancy Lace Border  Length : 5 . 50 MBlouse : Heavy Satin Length : 0 . 80 M Type : Unstitched",
+                "rating":4.5,
+        "image":"/assets/saree/s4.jpg"
+    },
+      {
+        "id":"thirtyseven",
+        "category":"Saree",
+        "name":" DARK GREEN and PINK FLORAL BUTTIS TANYA SILK Saree with BANARASI FANCY",
+        "price":1490,
+        "description":"Saree : Original Moss (Fabric) Work : Digital Print With Fancy Lace Border  Length : 5 . 50 MBlouse : Heavy Satin Length : 0 . 80 M Type : Unstitched",
+                "rating":3.5,
+        "image":"/assets/saree/s8.jpg"
+    },   {
+        "id":"thirtyeight",
+        "category":"Saree",
+        "name":" Party WEar Organza Saree",
+        "price":2090,
+        "description":"Saree : Original Moss (Fabric) Work : Digital Print With Fancy Lace Border  Length : 5 . 50 MBlouse : Heavy Satin Length : 0 . 80 M Type : Unstitched",
+                "rating":4.2,
+        "image":"/assets/saree/s10.webp"
+    }
+  
+   
+]

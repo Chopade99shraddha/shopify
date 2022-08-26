@@ -1,0 +1,187 @@
+[
+    {
+        "id":1,
+        "category":"Shirt",
+        "name":"Men Regular Fit Washed Casual Shirt",
+        "price":489,
+        "description":"The versatile length is perfect for all occasions, so you can tuck it in for the office or wear it untucked for a casual weekend party Care Instructions: Machine wash cold, wash dark colours separately, do not bleach, tumble dry low, warm iron        Collar Style: Classic Collar; Sleeve Type: Long Sleeve; Fit Type: Slim Fit; Sport Type: Cricket; Material Type: Silk",
+        "rating":3.8,
+        "image":"/assets/shirt/t4.webp"
+    },
+   
+    {
+        "id":2,
+        "category":"Shirt",
+        "name":" Men Regular Fit Striped Spread Collar Casual Shirt",
+        "price":399,
+        "description":"The versatile length is perfect for all occasions, so you can tuck it in for the office or wear it untucked for a casual weekend party Care Instructions: Machine wash cold, wash dark colours separately, do not bleach, tumble dry low, warm iron        Collar Style: Classic Collar; Sleeve Type: Long Sleeve; Fit Type: Slim Fit; Sport Type: Cricket; Material Type: Silk",
+        "rating":4,
+        "image":"/assets/shirt/t2.webp"
+
+    },
+    {
+        "id":3,
+        "category":"Shirt",
+        "name":"  Men Slim Fit Solid Slim Collar Formal Shirt",
+        "price":499,
+        "description":"The versatile length is perfect for all occasions, so you can tuck it in for the office or wear it untucked for a casual weekend party Care Instructions: Machine wash cold, wash dark colours separately, do not bleach, tumble dry low, warm iron        Collar Style: Classic Collar; Sleeve Type: Long Sleeve; Fit Type: Slim Fit; Sport Type: Cricket; Material Type: Silk",
+        "rating":4.2,
+        "image":"/assets/shirt/t.7.jpg"
+
+    },
+    {
+        "id":4,
+        "category":"Shirt",
+        "name":"  Men Slim Fit Solid Slim Collar Formal Shirt",
+        "price":459,
+        "description":"The versatile length is perfect for all occasions, so you can tuck it in for the office or wear it untucked for a casual weekend party Care Instructions: Machine wash cold, wash dark colours separately, do not bleach, tumble dry low, warm iron        Collar Style: Classic Collar; Sleeve Type: Long Sleeve; Fit Type: Slim Fit; Sport Type: Cricket; Material Type: Silk",
+        "rating":4.1,
+        "image":"/assets/shirt/t.71.webp"
+
+    },
+    {
+        "id":5,
+        "category":"Shirt",
+        "name":"   Dennis Lingo  Men Slim Fit Solid Slim Collar Casual Shirt",
+        "price":699,
+        "description":"The versatile length is perfect for all occasions, so you can tuck it in for the office or wear it untucked for a casual weekend party Care Instructions: Machine wash cold, wash dark colours separately, do not bleach, tumble dry low, warm iron        Collar Style: Classic Collar; Sleeve Type: Long Sleeve; Fit Type: Slim Fit; Sport Type: Cricket; Material Type: Silk",
+        "rating":4.9,
+        "image":"/assets/shirt/t5.webp"
+
+    },
+    {
+        "id":6,
+        "category":"Shirt",
+        "name":" FINIVO FASHION  Men Regular Fit Striped Spread Collar Casual Shirt",
+        "price":299,
+        "description":"The versatile length is perfect for all occasions, so you can tuck it in for the office or wear it untucked for a casual weekend party Care Instructions: Machine wash cold, wash dark colours separately, do not bleach, tumble dry low, warm iron        Collar Style: Classic Collar; Sleeve Type: Long Sleeve; Fit Type: Slim Fit; Sport Type: Cricket; Material Type: Silk",
+        "rating":3.5,
+        "image":"/assets/shirt/t3.webp"
+
+    },
+    {
+        "id":7,
+        "category":"Shirt",
+        "name":"NIVO FASHION  Men Regular Fit Striped Spread Collar olive green Casual Shirt",
+        "price":385,
+        "description":"The versatile length is perfect for all occasions, so you can tuck it in for the office or wear it untucked for a casual weekend party Care Instructions: Machine wash cold, wash dark colours separately, do not bleach, tumble dry low, warm iron        Collar Style: Classic Collar; Sleeve Type: Long Sleeve; Fit Type: Slim Fit; Sport Type: Cricket; Material Type: Silk",
+        "rating":4.2,
+        "image":"/assets/shirt/ts.webp"
+
+    }, {
+        "id":8,
+        "category":"Shirt",
+        "name":" FINI FASHION  Men Regular Fit Striped Spread Collar red Casual Shirt",
+        "price":599,
+        "description":"The versatile length is perfect for all occasions, so you can tuck it in for the office or wear it untucked for a casual weekend party Care Instructions: Machine wash cold, wash dark colours separately, do not bleach, tumble dry low, warm iron        Collar Style: Classic Collar; Sleeve Type: Long Sleeve; Fit Type: Slim Fit; Sport Type: Cricket; Material Type: Silk",
+        "rating":4.4,
+        "image":"/assets/shirt/t.73.webp"
+
+    }, {
+        "id":9,
+        "category":"Shirt",
+        "name":" FINIVO FASHION  Men Regular Fit Striped Spread Collar pink Casual Shirt",
+        "price":479,
+        "description":"The versatile length is perfect for all occasions, so you can tuck it in for the office or wear it untucked for a casual weekend party Care Instructions: Machine wash cold, wash dark colours separately, do not bleach, tumble dry low, warm iron        Collar Style: Classic Collar; Sleeve Type: Long Sleeve; Fit Type: Slim Fit; Sport Type: Cricket; Material Type: Silk",
+        "rating":5,
+        "image":"/assets/shirt/t6.webp"
+    },
+    {
+        "id":10,
+        "category":"Tshirt",
+        "name":"  AUSK Colourblock OLIVE GREEN T-shirt",
+        "price":400,
+        "description":"Softer then regular cotton- Melange of cotton, specifically designed to provide the extra spark to your personality. The right choice for men/boys. A comfortable and relaxed material that is extremely comfortable. Regular fit- Regular fit, half sleeves, round neck T-shirt.",
+        "rating":4.8,
+        "image":"/assets/tshirt/t1.webp"
+    },
+   
+    {
+        "id":11,
+        "category":"Tshirt",
+        "name":" AUSK Crew-Neck T-shirt ORANGE",
+        "price":350,
+        "description":"Softer then regular cotton- Melange of cotton, specifically designed to provide the extra spark to your personality. The right choice for men/boys. A comfortable and relaxed material that is extremely comfortable. Regular fit- Regular fit, half sleeves, round neck T-shirt.",
+        "rating":3.2,
+        "image":"/assets/tshirt/t2.webp"
+    },
+    {
+        "id":12,
+        "category":"Tshirt",
+        "name":" ROUND NECK T SHIRT BLUE BLACK STRIPE",
+        "price":670,
+        "description":"Softer then regular cotton- Melange of cotton, specifically designed to provide the extra spark to your personality. The right choice for men/boys. A comfortable and relaxed material that is extremely comfortable. Regular fit- Regular fit, half sleeves, round neck T-shirt.",
+        "rating":3.7,
+        "image":"/assets/tshirt/t6.webp"
+    },
+    {
+        "id":13,
+        "category":"Tshirt",
+        "name":" V NECK CASUAL MEN'S T SHIRT IN NARROW BLUE WHITE STRIPE",
+        "price":399,
+        "description":"Softer then regular cotton- Melange of cotton, specifically designed to provide the extra spark to your personality. The right choice for men/boys. A comfortable and relaxed material that is extremely comfortable. Regular fit- Regular fit, half sleeves, round neck T-shirt.",
+        "rating":2.2,
+        "image":"/assets/tshirt/t7.webp"
+    },
+    {
+        "id":14,
+        "category":"Tshirt",
+        "name":" ROUND NECK CASUAL MEN'S T SHIRT IN NARROW BLUE STRIPE",
+        "price":290,
+        "description":"Softer then regular cotton- Melange of cotton, specifically designed to provide the extra spark to your personality. The right choice for men/boys. A comfortable and relaxed material that is extremely comfortable. Regular fit- Regular fit, half sleeves, round neck T-shirt.",
+        "rating":3.2,
+        "image":"/assets/tshirt/t8.webp"
+    },
+    {
+        "id":15,
+        "category":"Tshirt",
+        "name":" ROUND NECK CASUAL MEN'S T SHIRT BLACK HOODIE",
+        "price":620,
+        "description":"Softer then regular cotton- Melange of cotton, specifically designed to provide the extra spark to your personality. The right choice for men/boys. A comfortable and relaxed material that is extremely comfortable. Regular fit- Regular fit, half sleeves, round neck T-shirt.",
+        "rating":3.9,
+        "image":"/assets/tshirt/t10.webp"
+    },
+    {
+        "id":16,
+        "category":"Tshirt",
+        "name":" ROUND NECK CASUAL MEN'S BLACK TSHIRT WITH FULL SLEEVES",
+        "price":380,
+        "description":"Softer then regular cotton- Melange of cotton, specifically designed to provide the extra spark to your personality. The right choice for men/boys. A comfortable and relaxed material that is extremely comfortable. Regular fit- Regular fit, half sleeves, round neck T-shirt.",
+        "rating":3.3,
+        "image":"/assets/tshirt/t3.webp"
+    },
+    {
+        "id":17,
+        "category":"Tshirt",
+        "name":" ROUND NECK CASUAL MEN'S T SHIRT IN NARROW BLACK WHITE STRIPE",
+        "price":450,
+        "description":"Softer then regular cotton- Melange of cotton, specifically designed to provide the extra spark to your personality. The right choice for men/boys. A comfortable and relaxed material that is extremely comfortable. Regular fit- Regular fit, half sleeves, round neck T-shirt.",
+        "rating":3.8,
+        "image":"/assets/tshirt/t4.webp"
+    },
+    {
+        "id":18,
+        "category":"Tshirt",
+        "name":" ROUND NECK CASUAL MEN'S T SHIRT IN NARROW BLACK",
+        "price":550,
+        "description":"Softer then regular cotton- Melange of cotton, specifically designed to provide the extra spark to your personality. The right choice for men/boys. A comfortable and relaxed material that is extremely comfortable. Regular fit- Regular fit, half sleeves, round neck T-shirt.",
+        "rating":3.6,
+        "image":"/assets/tshirt/t5.webp"
+    },
+    {
+        "id":18,
+        "category":"Tshirt",
+        "name":" CASUAL MEN'S T SHIRT IN NARROW Grey",
+        "price":650,
+        "description":"Softer then regular cotton- Melange of cotton, specifically designed to provide the extra spark to your personality. The right choice for men/boys. A comfortable and relaxed material that is extremely comfortable. Regular fit- Regular fit, half sleeves, round neck T-shirt.",
+        "rating":3.5,
+        "image":"/assets/tshirt/t9.jpg"
+    }
+  
+   
+]
+
+    
+
+
+   

@@ -1,0 +1,32 @@
+<nav class="navbar navbar-expand-lg">
+    <div class="container-fluid">
+      <a class="navbar-brand" ><img src="./assets/saree/lago1.png" height="80px" width="80px"><b>Shopify</b></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active  fw-bold text-wrap fs-6" aria-current="page" [routerLink]="['/home']">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link  fw-bold text-wrap fs-6"[routerLink]="['/Men']">Men</a>
+         </li>
+         <li class="nav-item">
+            <a class="nav-link  fw-bold text-wrap fs-6" [routerLink]="['women']">Women</a>
+         </li>
+        
+        </ul>
+        
+          <a class="nav-link fw-bold text-wrap fs-9">Log In/<br>Sign Up</a>
+       
+        <button type="button" [routerLink]="['/cart']" class="btn btn-primary position-relative">
+          <i class="bi bi-bag-heart-fill"></i>
+          <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+        {{totalItem}}
+            <span class="visually-hidden">unread messages</span>
+          </span>
+        </button>
+      </div>
+    </div>
+  </nav>

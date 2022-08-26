@@ -1,0 +1,31 @@
+<!--<div class="container">
+    <div class="row">
+        <div class="col-lg-12"  *ngIf="product$|async as product">
+        <div class="col-lg-3">
+          <img [src]="product.image">
+        </div>
+        <div class="col-lg-9">
+             <h2>{{product.name}}</h2>
+             <h5>{{product.rating}}</h5>
+             <h4>{{product.price}}</h4>
+             <p>{{product.description}}</p>
+               <a class="btn btn-primary" (click)="addTocart(product)">Add To Cart</a>
+        
+        </div>
+        </div>
+    </div>
+</div>
+-->
+<div *ngIf="product$|async as product">
+    <div class="card" style="width: 18rem;">
+        <img [src]="product.image" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{product.name}}</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <a href="#" class="btn btn-primary" [routerLink]="['/users']">Back</a>
+        </div>
+      </div>
+</div>
+<ng-template #noUserFound>
+    <h5>NoUser found with this id</h5>
+</ng-template>

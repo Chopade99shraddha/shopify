@@ -1,0 +1,57 @@
+
+<ng-container *ngIf="false">
+    <div class="container">
+        <div class="card">
+            <h5 class="card-title">My Cart</h5>
+        </div>
+        <div class="center">
+            <h4>Your card is empty!</h4>
+            <h6>Add item ti it now</h6>
+        </div>
+    </div>
+</ng-container>
+
+<ng-container *ngIf="true">   
+      <div class="container">
+        <div class="card-table">
+        <div class="card-product">
+            <div class="table table-responsive">
+                <thead>
+                    <tr class="py-3">
+                        <th>Sr.No</th>
+                        <th>Product Name</th>
+                        <th>Product Image</th>
+                        <th>Dascription</th>
+                        <th>Price</th>
+                        <th>Quantity</th>
+                        <th>Total</th>
+                        <th>action</th>
+                    </tr>
+                </thead>
+               <tbody>
+                    <tr class="td" *ngFor="let product of products;let i=index">
+                        <td>{{i+1}}</td>
+                        <td>{{product.name}}</td>
+                        <td><img class="img" [src]="product.image"></td>
+                        <td>{{product.description|slice:0:100}}</td>
+                        <td>{{product.price}}</td>
+                        <td>{{product.quantity}}</td>
+                        <td>{{product.total}}</td>
+                        <td>
+                            <i class="bi bi-trash3-fill btn"></i>
+                        </td>
+                       
+                    </tr>
+               </tbody>
+                </div>
+        </div>
+    </div>
+  
+</div>
+<h5 class="total">Total :  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  {{grandTotal}}</h5>
+
+</ng-container>
+<button class="btn1">Place Order</button>
+
+
+
